@@ -1,0 +1,16 @@
+Hello Sir/Madam
+Iam Akash.R from D.R.B.C.C.C Hindu College 
+As iam participating in the event of web designing conducted by LA CORSA 2022
+I would like to leave a short note about the website that i have designed for!
+I chose fitness website among the choices 
+my website represents about the fitness target  ( gym) 
+i have designed this website on VS CODE with HTML and CSS  and no bootstrap or wordpress included
+i have designed a working navigation bar with click to scroll function
+i have included multiple hover effects tomake the website look premium
+i have included <a href> tags to embed youtube links onto the catalouge
+on clicking the catalouge it redirects the user to a youtube video where fitness activities can be practised
+i have then included a feedback form to register users feedbacks
+finally a contact us section for the user to stay connected in socialmedia
+
+thank you!!
+
